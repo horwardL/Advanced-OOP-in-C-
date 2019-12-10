@@ -1,0 +1,18 @@
+-1+5x+20x^3-9x^2-2x+x^2-2x^3+x^9 = x^9+18x^3-8x^2+3x-1
+-1+5x+20x^3-9x^2-2x+x^2-2x^3+x^7 = x^7+18x^3-8x^2+3x-1
+addition: x^9+x^7+36x^3-16x^2+6x-2
+subtraction: x^9-x^7
+multiplication: x^16+18x^12-8x^11+21x^10-9x^9+3x^8-x^7+324x^6-288x^5+172x^4-84x^3+25x^2-6x+1
+
+5x^3-10x+9+3x^3 = 8x^3-10x+9
+10x^3+1-x^2-7x^3 = 3x^3-x^2+1
+addition: 11x^3-x^2-10x+10
+subtraction: 5x^3+x^2-10x+8
+multiplication: 24x^6-8x^5-30x^4+45x^3-9x^2-10x+9
+
+9x = 9x
+2 = 2
+addition: 9x+2
+subtraction: 9x-2
+multiplication: 18x
+
